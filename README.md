@@ -1,1 +1,0 @@
-# notebookLM-assistant-for-rocketseat
